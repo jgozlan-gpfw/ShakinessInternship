@@ -20,3 +20,6 @@ The folder scripts contains common functions used accross the different experime
 4. baseline: contains the few baseline ( mean, period with fourier and acf, fourier extrapolation and others as well as plotting.
 5. evaluation2: contains the metrics function (mae, mse, mape and smape) per forecasted timesteps.
 
+Model analysis folder contains a few model trained and used among different scripts.
+
+Few experiments, contains a few experiments for all types of research conducted ( some may be out of date but might contains interesting results)
